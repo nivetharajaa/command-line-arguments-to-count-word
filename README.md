@@ -7,15 +7,27 @@ Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
 
+import sys
+
 ### Step 2: 
+
+initially make count = 0
  
 ### Step 3: 
 
-### Step 4:  
+open the content file using command line arguments.
+
+### Step 4: 
+
+by using for loop name the function as "line"
 
 ### Step 5: 
 
+split the line using.split
+
 ### Step 6: 
+
+splip the line using.splits
 
 ## PROGRAM:
 ```
